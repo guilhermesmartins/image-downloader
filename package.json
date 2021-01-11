@@ -1,0 +1,16 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "7.0.1",
+    "node-fetch": "2.6.1",
+    "puppeteer": "5.4.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
